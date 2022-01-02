@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/62741672/147873001-ecb26665-ac34-4337-9541-db8e273ff9eb.png" alt="my banner">
 </p>
-
+ -->
 ### Hi there, I'm Neha 👋
 
 
