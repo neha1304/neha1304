@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/62741672/147873001-ecb26665-ac34-4337-9541-db8e273ff9eb.png" alt="my banner">
+</p>
+
 ### Hi there, I'm Neha 👋
 
 
@@ -17,7 +21,6 @@
 <a href="https://www.instagram.com/_.nehahahaha_/" target="blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Neha_Vishwakarma | Instagram" height="38" width="40" /></a>
 
 <br/>
-
 
 
 <p align="left">
